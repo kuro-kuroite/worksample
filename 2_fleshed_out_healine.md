@@ -52,12 +52,6 @@ Ruby on Rails (以下 Rails) は， Ruby の環境の上で動くWebアプリケ
 
 * ユーザからの要求から適切な View と 表示に必要なデータをModelから取得．
 
-## Ruby と Rails それぞれでの「Hello, world」アプリケーション
-
-### Ruby の場合
-
-### Rails の場合
-
 ## フレームワーク Rails での活用事例
 
 * [Coodpad](https://cookpad.com/)
