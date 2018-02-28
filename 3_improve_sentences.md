@@ -21,5 +21,5 @@ end
 
 name = MyStr("Alice")
 name.show
-=> "\"hoge\""
+=> "\"Alice\""
 ```
